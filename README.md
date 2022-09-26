@@ -1,6 +1,6 @@
 **Hướng dẫn đăng ký dự thi chứng chỉ Certified in Cybersecurity của (ISC)2 miễn phí**
 
-Tạo tài khoản học tập trên ISC**
+Tạo tài khoản học tập trên(ISC)²**
 
 Truy cập trang web https://my.isc2.org/s/login/SelfRegister, đăng ký một tài khoản miễn phí để truy cập kho tài nguyên học tập miễn phí/có phí trên (ISC)²
 
