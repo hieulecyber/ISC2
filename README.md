@@ -23,6 +23,7 @@ Sau khi đăng ký thành công tài khoản Pearson Vue và tiến hành đăng
 ![image](https://user-images.githubusercontent.com/102139186/192238540-f7eeb57d-7dd9-43ac-919c-b56a0da515c0.png)
 
 **Học tập**
+
 Các nội dung học chứng chỉ Certified in Cybersecurity có thể được truy cập qua đường link https://www.isc2.org/, phần **My Courses**
 
 ![image](https://user-images.githubusercontent.com/102139186/192245130-91a031ca-8250-482d-b7f7-ace5b545bea4.png)
