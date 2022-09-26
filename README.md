@@ -18,7 +18,9 @@ Truy cập https://my.isc2.org/s/Candidate-Application-Form, điền các thông
 
 Sau khi đăng ký thành công tài khoản Pearson Vue và tiến hành đăng nhập, ở phần _Schedule an Exam_ chọn _View Exams_ >> _Certified in Cybersecurity (CC)_ và tiến hành đăng ký thi như thông thường. Ở bước thanh toán thay vì điền các thông tin thẻ tín dụng, điền Code **CC1M12312022** để nhận voucher thi miễn phí. 
 
+![image](https://user-images.githubusercontent.com/102139186/192235699-16d8e873-e31b-46e6-8eb6-ccd30281c235.png)
+
 ![image](https://user-images.githubusercontent.com/102139186/192238540-f7eeb57d-7dd9-43ac-919c-b56a0da515c0.png)
 
 
-![image](https://user-images.githubusercontent.com/102139186/192235699-16d8e873-e31b-46e6-8eb6-ccd30281c235.png)
+
